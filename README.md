@@ -6,7 +6,7 @@
 ## Hi I'm Vikas Sharma 👋
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about HTML, CSS and JavaScript.
 
